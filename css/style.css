@@ -162,6 +162,35 @@ a.nav-back:hover,
 a.nav-back:focus {
   color: #ce2323;
 }
+a.nav-back2 {
+  position: absolute;
+  top: 15px;
+  left: 50px;
+  color: rgba(0,0,0,0.5);
+  z-index: 99;
+}
+a.nav-back2:hover,
+a.nav-back2:focus {
+  color: #ce2323;
+}
+a.nav-back3 {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  color: rgba(0,0,0,0.5);
+  z-index: 99;
+}
+a.nav-back3:hover,
+a.nav-back3:focus {
+  color: #ce2323;
+}
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
 nav {
   position: absolute;
   top: 0;
