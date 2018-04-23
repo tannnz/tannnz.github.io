@@ -157,21 +157,37 @@ a.nav-back {
   left: 15px;
   color: rgba(0,0,0,0.5);
   z-index: 99;
+  transition-property: all;
+  -moz-transition-property: all /* Firefox 4 */;
+  -webkit-transition-property: all /* Safari 和 Chrome */;
+  -o-transition-property: all;
+  transition-duration: 1s;
+  -moz-transition-duration: 1s /* Firefox 4 */;
+  -webkit-transition-duration: 1s /* Safari 和 Chrome */;
+  -o-transition-duration: 1s /* Opera */;
 }
 a.nav-back:hover,
 a.nav-back:focus {
-  color: #ce2323;
+  color: #444;
 }
 a.nav-back2 {
   position: absolute;
   top: 15px;
-  left: 50px;
+  left: 65px;
   color: rgba(0,0,0,0.5);
   z-index: 99;
+  transition-property: all;
+  -moz-transition-property: all /* Firefox 4 */;
+  -webkit-transition-property: all /* Safari 和 Chrome */;
+  -o-transition-property: all;
+  transition-duration: 1s;
+  -moz-transition-duration: 1s /* Firefox 4 */;
+  -webkit-transition-duration: 1s /* Safari 和 Chrome */;
+  -o-transition-duration: 1s /* Opera */;
 }
 a.nav-back2:hover,
 a.nav-back2:focus {
-  color: #ce2323;
+  color: #444;
 }
 a.nav-back3 {
   position: absolute;
@@ -179,14 +195,22 @@ a.nav-back3 {
   right: 15px;
   color: rgba(0,0,0,0.5);
   z-index: 99;
+  transition-property: all;
+  -moz-transition-property: all /* Firefox 4 */;
+  -webkit-transition-property: all /* Safari 和 Chrome */;
+  -o-transition-property: all;
+  transition-duration: 1s;
+  -moz-transition-duration: 1s /* Firefox 4 */;
+  -webkit-transition-duration: 1s /* Safari 和 Chrome */;
+  -o-transition-duration: 1s /* Opera */;
 }
 a.nav-back3:hover,
 a.nav-back3:focus {
-  color: #ce2323;
+  color: #444;
 }
 .icon {
-  width: 1em;
-  height: 1em;
+  width: 1.5em;
+  height: 1.5em;
   vertical-align: -0.15em;
   fill: currentColor;
   overflow: hidden;
