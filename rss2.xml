@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ლ(╹ε╹ლ) Text - Tannnz</title>
-    <link>http://text.tannnz.com/</link>
+    <link>https://text.tannnz.com/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
@@ -13,8 +13,8 @@
     
     <item>
       <title>0 The Fool</title>
-      <link>http://text.tannnz.com/2018/04/22/first/</link>
-      <guid>http://text.tannnz.com/2018/04/22/first/</guid>
+      <link>https://text.tannnz.com/2018/04/22/first/</link>
+      <guid>https://text.tannnz.com/2018/04/22/first/</guid>
       <pubDate>Sun, 22 Apr 2018 12:56:31 GMT</pubDate>
       <description>
       
@@ -29,7 +29,7 @@
       
       </description>
       
-      <comments>http://text.tannnz.com/2018/04/22/first/#disqus_thread</comments>
+      <comments>https://text.tannnz.com/2018/04/22/first/#disqus_thread</comments>
     </item>
     
   </channel>
